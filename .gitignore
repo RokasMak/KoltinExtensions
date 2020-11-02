@@ -1,0 +1,16 @@
+.DS_Store
+.classpath
+.gradle
+.project
+.settings
+.idea
+*.iml
+bin
+build
+build.xml
+gen
+lint.xml
+local.properties
+ajcore.**
+/true/
+captures/
